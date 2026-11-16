@@ -1,1 +1,2 @@
-print("hola mundo") 
+nombre = input("¿cual es tu nombre?")
+print(f"hola, {nombre}")
